@@ -1,0 +1,15 @@
+/Users/kseniachernaya/Desktop/C#/34-36-38/bin/Debug/net6.0/34-36-38
+/Users/kseniachernaya/Desktop/C#/34-36-38/bin/Debug/net6.0/34-36-38.deps.json
+/Users/kseniachernaya/Desktop/C#/34-36-38/bin/Debug/net6.0/34-36-38.runtimeconfig.json
+/Users/kseniachernaya/Desktop/C#/34-36-38/bin/Debug/net6.0/34-36-38.dll
+/Users/kseniachernaya/Desktop/C#/34-36-38/bin/Debug/net6.0/34-36-38.pdb
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.csproj.AssemblyReference.cache
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.AssemblyInfoInputs.cache
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.AssemblyInfo.cs
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.csproj.CoreCompileInputs.cache
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.dll
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/refint/34-36-38.dll
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.pdb
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/34-36-38.genruntimeconfig.cache
+/Users/kseniachernaya/Desktop/C#/34-36-38/obj/Debug/net6.0/ref/34-36-38.dll
